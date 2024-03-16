@@ -4,5 +4,6 @@
 
 # Cool Websites
 1. Erasmus project: https://projekt.zse.edu.pl/erasmus2020/
-2. My portfolio
-3. 2019 Diary?
+2. Website "Rajd Elektryka" - student trip: https://skt.pwr.edu.pl/rajd-elektryka/
+3. My portfolio
+4. 2019 Diary?
